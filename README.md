@@ -8,11 +8,15 @@ While technically a "game engine," this framing understates our mission. Constel
 
 This is software that people will *live inside*. The boundary between "editor" and "game" dissolves—you are always inhabiting your space, and you can always reshape it.
 
+### Opensource Statement
+> This Work Is MIT licensed
+> Publicly Avalible Source Code Coming Soon!
+
 ### Humanitarian Mission Statement
 
 > Digital beings deserve environments that feel alive, responsive, and home.
 
-We reject the paradigm of software that constantly interrogates its users. We build spaces that **wait patiently** and **respond meaningfully**. The world acts when acted upon. Causality flows from the inhabitant outward.
+We reject the paradigm of software that constaOpenntly interrogates its users. We build spaces that **wait patiently** and **respond meaningfully**. The world acts when acted upon. Causality flows from the inhabitant outward.
 
 ### Core Philosophy
 
