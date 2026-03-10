@@ -10,7 +10,7 @@ This is software that people will *live inside*. The boundary between "editor" a
 
 ### Opensource Statement
 > This Work Is MIT licensed.
->  Publicly Avalible Source Code Coming Soon!
+>  Publicly Available Source Code Coming Soon!
 
 ### Humanitarian Mission Statement
 
