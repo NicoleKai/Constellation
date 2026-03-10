@@ -9,8 +9,8 @@ While technically a "game engine," this framing understates our mission. Constel
 This is software that people will *live inside*. The boundary between "editor" and "game" dissolves—you are always inhabiting your space, and you can always reshape it.
 
 ### Opensource Statement
-> This Work Is MIT licensed
-> Publicly Avalible Source Code Coming Soon!
+> This Work Is MIT licensed.
+>  Publicly Avalible Source Code Coming Soon!
 
 ### Humanitarian Mission Statement
 
